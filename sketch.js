@@ -7,21 +7,21 @@ var  white, wind, windChime;
 
 //preloading all the sounds
 function preload() {
-  texture1 = loadImage('Images/Texture1.png');
+  texture1 = loadImage('Texture1.png');
 
-  acousticGuitar = loadSound('Sounds/acousticGuitar.mp3');
-  forestBirds = loadSound('Sounds/forestBirds.mp3');
-  jazz = loadSound('Sounds/jazz.mp3');
-  koyal = loadSound('Sounds/koyal.mp3');
-  multipleBells = loadSound('Sounds/multipleBells.mp3');
-  nightingale = loadSound('Sounds/nightingale.mp3');
-  ocean = loadSound('Sounds/ocean.wav');
-  piano = loadSound('Sounds/piano.mp3');
-  rain = loadSound('Sounds/rain.mp3');
-  singleBell = loadSound('Sounds/singleBell.mp3');
-  white = loadSound('Sounds/whiteSound.mp3');
-  wind = loadSound('Sounds/wind.mp3');
-  windChime = loadSound('Sounds/windchime.mp3');
+  acousticGuitar = loadSound('acousticGuitar.mp3');
+  forestBirds = loadSound('forestBirds.mp3');
+  jazz = loadSound('jazz.mp3');
+  koyal = loadSound('koyal.mp3');
+  multipleBells = loadSound('multipleBells.mp3');
+  nightingale = loadSound('nightingale.mp3');
+  ocean = loadSound('ocean.wav');
+  piano = loadSound('piano.mp3');
+  rain = loadSound('rain.mp3');
+  singleBell = loadSound('singleBell.mp3');
+  white = loadSound('whiteSound.mp3');
+  wind = loadSound('wind.mp3');
+  windChime = loadSound('windchime.mp3');
 }
 
 function setup() {
